@@ -2,6 +2,8 @@
 
 This is an adaption of the [io-2012-slides](https://code.google.com/p/io-2012-slides/), originally developed by Google (based on the trunk code from February 16, 2014). An online demo can be found [here](http://fnogatz.github.io/uniwue-slide-templates/index.html).
 
+[![Screenshot](images/screenshot.png)](http://fnogatz.github.io/uniwue-slide-templates/index.html)
+
 ## University logos
 
 The template contains the [logo and seal](http://www.uni-wuerzburg.de/fuer/beschaeftigte/corporate_design_vorlagen/logos/) of the *University of Würzburg*, which are neither part of this project nor covered by its license.
